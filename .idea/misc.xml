@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/layout/activity_1.xml" value="0.1" />
-        <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/layout/activity_2.xml" value="0.17864583333333334" />
-        <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/layout/activity_3.xml" value="0.21014492753623187" />
-        <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/layout/activity_about.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/layout/activity_2.xml" value="0.1" />
+        <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/layout/activity_3.xml" value="0.1" />
+        <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/Igor/AndroidStudioProjects/triple_kill_6/app/src/main/res/menu/nav_menu.xml" value="0.1859375" />
       </map>
     </option>
   </component>

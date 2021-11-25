@@ -6,8 +6,9 @@
     <androidx.drawerlayout.widget.DrawerLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".activity3"
+        tools:context=".Activity3"
         android:background="#FF0057"
+        android:id="@+id/drawer_layout"
         >
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -65,20 +66,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_gravity="start"
-            android:fitsSystemWindows="true">
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="vertical">
-
-                <Button
-                    android:id="@+id/btnToAbout"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/to_about"
-                    android:layout_gravity="center" />
-            </LinearLayout>
+            android:fitsSystemWindows="true"
+            app:menu="@menu/nav_menu">
         </com.google.android.material.navigation.NavigationView>
 
     </androidx.drawerlayout.widget.DrawerLayout>
